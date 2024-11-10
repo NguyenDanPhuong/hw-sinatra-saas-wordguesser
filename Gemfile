@@ -7,7 +7,7 @@ gem 'sinatra-flash', '0.3.0'
 group :development, :test do
   gem 'cucumber', '2.0.0'
   gem 'cucumber-sinatra', '0.5.0'
-  gem 'capybara', '3.1'
+  gem 'capybara', '3.1.1'
 
   gem 'rspec', '3.3.0'
   gem 'rspec-autotest', '1.0.0'
@@ -17,7 +17,7 @@ group :development, :test do
 
   gem 'byebug', '5.0.0'
   gem 'launchy', '2.4.3'
-  gem 'rerun', '0.10.0'
+  gem 'rerun', '0.11.0'
 
   gem 'simplecov', '0.16.1'
   gem 'webmock', '3.3.0'
